@@ -1,4 +1,4 @@
-package com.almahdi.university.dao;
+package com.almahdi.university.model;
 
 import java.util.Date;
 

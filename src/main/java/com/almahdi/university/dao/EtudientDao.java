@@ -1,5 +1,7 @@
 package com.almahdi.university.dao;
 
+import com.almahdi.university.model.Etudient;
+
 import java.util.List;
 
 public interface EtudientDao {

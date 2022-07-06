@@ -1,5 +1,6 @@
 package com.almahdi.university.dao;
 
+import com.almahdi.university.model.Etudient;
 import com.almahdi.university.util.Utils;
 
 import java.sql.Connection;
